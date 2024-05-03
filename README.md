@@ -1,6 +1,8 @@
 # C-LearnSome-DSA-
+   * We are learing c/c++ DSA and this repo is for you to learn DSA
+      enjoy your Lerning   
 
-#Linked LIST**  
+#Linked LIST    
 
 * What is Linked List
 * Arrys vs Linked List
